@@ -83,4 +83,3 @@ Whatever naming convention is used SHOULD be applied consistently within a reaso
 
 Methods
 Method names MUST be declared in camelCase().
-
